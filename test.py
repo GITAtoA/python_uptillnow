@@ -20,5 +20,4 @@ The trace of robot movement is shown as the following:
 	Then, the output of the program should be:
 	2
 '''
-#adding just a line to see the changes in GIT 
-# now to see the git diff
+#adding just a line to see the changes in GIT
